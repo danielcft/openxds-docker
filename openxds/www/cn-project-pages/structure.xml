@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<structure>
+  <page>
+    <id>25CpOo</id>
+    <name>Architecture</name>
+    <directory>Architecture</directory>
+    <ordinal>1</ordinal>
+  </page>
+  <page>
+    <id>oi2FVJ</id>
+    <name>Documentation</name>
+    <directory>Documentation</directory>
+    <ordinal>2</ordinal>
+  </page>
+  <page>
+    <id>mpeR64</id>
+    <name>Message Samples</name>
+    <directory>Message Samples</directory>
+    <ordinal>3</ordinal>
+  </page>
+</structure>
+
